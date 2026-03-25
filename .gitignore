@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local secrets / runtime files
+password.txt
+query_config.json
+query.log
+
+# Optional env files
+.env
+.venv/
+venv/
+
+# Temporary artifacts and probes
+_probe_*.py
+_probe_*.out
+_queryelectric*.json
+_queryelectric*.txt
+electric_*response*.html
+*electric_page.html
+*login_page.html
+
+# Historical output patterns (legacy)
+electric_result*.json

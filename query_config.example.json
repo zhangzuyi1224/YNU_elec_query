@@ -1,0 +1,16 @@
+{
+  "account": {
+    "name": "your_account",
+    "password": "your_password"
+  },
+  "query": {
+    "elcsysId": "6",
+    "campusName": "呈贡",
+    "districtKeyword": "梓苑1",
+    "buildingKeyword": "梓1A",
+    "floorName": "1楼",
+    "roomName": "A101",
+    "displayBuilding": "梓苑一栋",
+    "displaySubBuilding": "梓1A栋"
+  }
+}
